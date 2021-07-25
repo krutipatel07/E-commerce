@@ -13,7 +13,7 @@ The challenge is to build the back end for an e-commerce site.
 We’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This application won’t be deployed so i’ll show a walkthrough video that demonstrates its functionality.<br>
 
 Demonstration Video
-The walkthrough video is [here](https://drive.google.com/file/d/19rMg0he-OgYuQQBKokX9ZqW_agMaurG-/view)
+The walkthrough video is [here](https://drive.google.com/file/d/1nb3gsnwgKqDzUBz4BuFT_L9ekTbUXaW_/view)
 
 ## Technologies
 Project is created with 
